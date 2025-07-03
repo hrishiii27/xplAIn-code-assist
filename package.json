@@ -55,5 +55,13 @@
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrishiii27/xplAIn-code-assist"
+  },
+  "bugs": {
+    "url": "https://github.com/hrishiii27/xplAIn-code-assist/issues"
+  },
+  "homepage": "https://github.com/hrishiii27/xplAIn-code-assist#readme"
 }
