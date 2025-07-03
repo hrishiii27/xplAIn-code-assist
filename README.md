@@ -1,5 +1,7 @@
 # xplAIn: AI Code Refactor & Analysis
 
+[**➡️ Get it from the Visual Studio Code Marketplace!**](https://marketplace.visualstudio.com/items?itemName=hrishiii27.xplAIn-code-assist)
+
 Enhance your code understanding and refactoring with Google Gemini-powered AI. Analyze code, get alternative implementations, visualize diffs, and apply smart code fixes—all from within VS Code.
 
 ---
@@ -69,6 +71,34 @@ Enhance your code understanding and refactoring with Google Gemini-powered AI. A
 
 ### 0.0.1
 - Initial release: AI code analysis, alternatives, diff, diagnostics, and quick fixes.
+
+---
+
+## 👨‍💻 For Developers: Running Locally
+
+To run this extension locally for development or testing:
+
+1.  **Clone the repository:**
+    ```sh
+    git clone https://github.com/hrishiii27/xplAIn-code-assist.git
+    cd xplAIn-code-assist
+    ```
+
+2.  **Install dependencies:**
+    ```sh
+    npm install
+    ```
+
+3.  **Compile the code:**
+    ```sh
+    npm run compile
+    # or run in watch mode for active development
+    npm run watch
+    ```
+
+4.  **Open in VS Code and Run:**
+    - Open the project folder in VS Code.
+    - Press `F5` to open a new **Extension Development Host** window with the extension loaded and ready for testing.
 
 ---
 
